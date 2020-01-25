@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]><html class="ie ie6" lang="pt-br"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="pt-br"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="pt-br"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="pt-br"> <!--<![endif]-->
+<head>
+<meta content="pt-br" http-equiv="Content-Language"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>APinfo - O ponto de encontro dos profissionais de informática</title>
+<meta content="Banco de curriculum de profissionais de informática, empregos, vagas,pesquisas, tabelas salariais e suporte tecnico" name="description"/>
+<meta content="Salarios, salários, tabelas, profissionais, empregos,informática, informatica, analistas, sistemas, gerentes, programadores, consultores, trabalho, duvida, suporte, dicas, free, pesquisas" name="keywords"/>
+<meta content="Apinfo" name="author"/>
+<!-- Mobile Specific Metas
+  ================================================== -->
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<!-- CSS
+  ================================================== -->
+<link href="https://www.apinfo.com/apinfo/assets/css/base.css" rel="stylesheet"/>
+<link href="https://www.apinfo.com/apinfo/assets/css/skeleton.css" rel="stylesheet"/>
+<link href="https://www.apinfo.com/apinfo/assets/css/style2.css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+		<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/ie.css">
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+<link href="https://www.apinfo.com/apinfo/assets/favicon.ico" rel="shortcut icon"/>
+<link href="https://www.apinfo.com/apinfo/assets/img/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="https://www.apinfo.com/apinfo/assets/img/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="https://www.apinfo.com/apinfo/assets/img/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<!-- Facebook Open Graph meta tags
+	============================================== -->
+<meta content="APinfo - O ponto de encontro dos profissionais de informática" name="og:title">
+<meta content="https://www.apinfo.com" name="og:url">
+<meta content="https://www.apinfo.com/apinfo/assets/img/logo.jpg" name="og:image">
+<meta content="APinfo" name="og:site_name">
+<meta content="Banco de curriculum de profissionais de informática, empregos, vagas,pesquisas, tabelas salariais e suporte tecnico" name="og:description">
+<!-- JS
+	============================================== -->
+<script src="https://www.apinfo.com/apinfo/assets/js/modernizr.js"></script>
+<script src="https://www.apinfo.com/apinfo/assets/js/jquery-3.3.1.min.js"></script>
+<script src="https://www.apinfo.com/apinfo/assets/js/jquery.placeholder.js"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://www.apinfo.com/apinfo/assets/js/jquery.mask.min.js"></script>
+<script src="https://www.apinfo.com/apinfo/assets/js/jquery.autocomplete.min.js"></script>
+<script src="https://www.apinfo.com/apinfo/assets/js/currency-autocomplete.js"></script>
+</meta></meta></meta></meta></meta></head>
+<body>
+<div class="top-shortcut">
+<span><strong>O ponto de encontro dos profissionais de informática </strong></span>
+</div>
+<div class="container">
+<div class="eight columns">
+<h1 class="logo m-tb">
+<a href="https://www.apinfo.com/apinfo/index.cfm" title="APinfo">APinfo</a>
+</h1>
+</div>
+<div class="eight columns">
+<div class="publicidade-home half-bottom">
+<center>
+<a href="https://www.apinfo.com/cgi/clickba.cfm?empre=GOC" target="_top">
+<img alt="GOC" border="0" src="https://www.apinfo.com/banner/goc.jpg"/></a>
+</center>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="sixteen columns">
+<div class="btn-mobile">
+<a class="fright" href="https://www.apinfo.com/apinfo/#" id="m-menu">
+<span class="btn-menu"></span>
+<span class="btn-menu"></span>
+<span class="btn-menu"></span>
+</a>
+</div>
+<nav class="top-menu">
+<section class="top-menu-section">
+<ul>
+<li class="has-dropdown"><a href="https://www.apinfo.com/apinfo/#">Profissionais</a>
+<ul class="dropdown">
+<li><a href="https://www.apinfo.com/apinfo/inc/list4.cfm">Pesquisar Vagas</a></li>
+<li><a href="https://www.apinfo2.com/apinfo/inc/cv-inc.cfm">Incluir Currículo</a></li>
+<li><a href="https://www.apinfo2.com/apinfo/inc/validas.cfm">Atualizar Currículo</a></li>
+<li><a href="https://www.apinfo2.com/apinfo/inc/cv-exc.cfm">Excluir Currículo</a></li>
+<li><a href="https://www.apinfo.com/apinfo/inc/faqp.cfm">Perguntas frequentes</a></li>
+</ul>
+</li>
+<li class="has-dropdown"><a href="https://www.apinfo.com/apinfo/#">Empresas</a>
+<ul class="dropdown">
+<li><a href="https://www.apinfo2.com/apinfo/inc/pesq9a.cfm">Pesquisar Currículo</a></li>
+<li><a href="https://www.apinfo2.com/apinfo/inc/pesqentra2.cfm">Pesquisa Avançada CV</a></li>
+<li><a href="https://www.apinfo.com/apinfo/inc/incofe01.cfm">Incluir Vaga</a></li>
+<li><a href="https://www.apinfo.com/apinfo/inc/alterar_vaga.cfm">Alterar Vaga</a></li>
+<li><a href="https://www.apinfo.com/apinfo/inc/excofe.cfm">Excluir Vaga</a></li>
+<li><a href="https://www.apinfo.com/apinfo/inc/faqe.cfm">Perguntas frequentes</a></li>
+</ul>
+</li>
+<li class="has-dropdown"><a href="https://www.apinfo.com/apinfo/#">Informação</a>
+<ul class="dropdown">
+<li><a href="https://www.apinfo2.com/apinfo/inc/ithelpl.cfm">IT Help</a></li>
+<li><a href="https://www.apinfo2.com/apinfo/inc/ithelpjl.cfm">Fórum Jurídico</a></li>
+<li><a href="https://www.apinfo2.com/apinfo/inc/itforum1.cfm">Fórum</a></li>
+<li><a href="https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm">Resultado Pesquisa</a></li>
+<li><a href="https://www.apinfo2.com/apinfo/inc/espaco_opiniao.cfm">Espaço Opinião</a></li>
+<li><a href="https://www.apinfo2.com/apinfo/informacao/p12sal-br.cfm">Salários</a></li>
+<li><a href="https://www.apinfo.com/apinfo/inc/sal.cfm">Planilha CLT x PJ</a></li>
+<li><a href="https://www.apinfo2.com/apinfo/inc/itguestl.cfm">Depoimentos</a></li>
+</ul>
+</li>
+<li><a href="https://www.apinfo.com/apinfo/inc/publicidade.cfm">Publicidade</a></li>
+<li><a href="https://www.apinfo.com/apinfo/inc/fale.cfm">Fale Conosco</a></li>
+</ul>
+</section>
+</nav>
+</div>
+</div>
+<!-- / TOPO DO SITE -->
+<!-- CONTEÃDO -->
+<div class="container m-t">
+<br/>Erro : 178.076 - Seu limite de consultas esta temporariamente esgotado<br/><br/>Por favor, tente mais tarde. Estamos restringindo o acesso a pesquisa de vagas,<br/>para que todos possam utiliza-la.<br/><br/>grato	: staff@apinfo.com<br/></div></body></html>
